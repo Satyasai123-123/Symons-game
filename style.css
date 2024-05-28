@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+}
+.btn{
+    height:200px;
+    width:200px;
+    border:10px solid black;
+    border-radius:25px;
+    margin:1.5rem;
+}
+
+.div-container{
+    display:flex;
+    justify-content:center;
+
+}
+.red{
+    background-color:#A34343;
+}
+.yellow{
+    background-color:#E9C874;
+}
+.cream{
+    background-color:#FBF8DD;
+}
+.blue{
+    background-color:#C0D6E8;
+}
+.flash{
+    background-color:white;
+}
